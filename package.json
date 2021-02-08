@@ -1,0 +1,21 @@
+{
+  "name": "fibonacci-tdd-work",
+  "version": "1.0.0",
+  "description": "Fibonacci work using test driven development",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Fibonacci",
+    "Test",
+    "Driven",
+    "Development"
+  ],
+  "author": "Otim Benjamin and Mariat Ndagire",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
